@@ -11,6 +11,7 @@ Below is a concise description of each Java program (Number Guessing Game, Grade
 - Tracks the number of attempts and ends the game when attempts are exhausted or the correct number is guessed.
 - Includes a replay option to start a new game.
 
+
 ---
 
 ### 2. Grade Calculator
